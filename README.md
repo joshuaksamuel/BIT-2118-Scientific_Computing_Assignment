@@ -1,3 +1,4 @@
+
 # BIT 2118 – SCIENTIFIC COMPUTING GROUP WORK
 
 ## 1. Project Overview
@@ -77,7 +78,7 @@ The project contains nineteen practical tasks:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/BIT2118-Scientific-Computing.git
+git clone https://github.com/joshuaksamuel/BIT2118-Scientific-Computing.git
 ```
 
 Navigate into the project directory:
@@ -161,4 +162,7 @@ Tasks Covered: A–S
 
 ### Task C – Output
 ![Task C Output](screenshots/Task_C/Task_C.png)
+
+
+
 
